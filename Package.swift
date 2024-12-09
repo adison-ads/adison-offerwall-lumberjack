@@ -1,10 +1,10 @@
-// swift-tools-version: 5.10
+// swift-tools-version: 5.9
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
-let version = "0.9.0"
-let checksum = "88d77c2616bae84deb78017f6d1192e162951aa1ee96df50b2df453f887a5d8c"
+let version = "0.9.2"
+let checksum = "be801520253ea132c86145665e2f201d79735cf7c72a138eb93435263e417903"
 
 let package = Package(
     name: "AdisonOfferwallLumberjack",
